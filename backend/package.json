@@ -18,7 +18,7 @@
     "express-fileupload": "^1.4.0",
     "fs-extra": "^10.1.0",
     "http-errors": "^2.0.0",
-    "mogoose": "^0.0.1-security",
+    "mongoose": "^6.5.5",
     "morgan": "^1.10.0"
   },
   "devDependencies": {
